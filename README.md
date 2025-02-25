@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello. This is @BonusTrack02
+I've been working as an Android developer since 01.2023
+## I'm working on ...
+- FOCUS H&S : 01.2023 ~ Now
+## I use ...
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3A75B0?style=flat-square&logo=java&logoColor=white"/>
+## I contributed ...
 
 <!--
 **BonusTrack02/BonusTrack02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
