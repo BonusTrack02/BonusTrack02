@@ -1,7 +1,7 @@
 ## Hello. This is @BonusTrack02
-I've been working as an Android developer since 01.2023
+I've been working as an Android developer since 2023.01
 ## I'm working on ...
-- FOCUS H&S : 01.2023 ~ Now
+- FOCUS AI : 2023.01 ~ 2026.01
 ## I use ...
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3A75B0?style=flat-square&logo=java&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Android Studio-34A853?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white"/>
